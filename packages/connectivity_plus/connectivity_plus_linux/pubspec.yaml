@@ -11,7 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  connectivity_plus_platform_interface: ^1.1.0
+  connectivity_plus_platform_interface:
+    path: ../connectivity_plus_platform_interface
   meta: ^1.7.0
   nm: ^0.4.0
 
